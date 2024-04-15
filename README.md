@@ -1,4 +1,6 @@
-# Chart
+# Exercise 5
 
-## installation
-npm install --save chart.js react-chartjs-2
+## Created by
+- Zeno WONG
+## Description
+- Create different types of Charts with react Chart js
